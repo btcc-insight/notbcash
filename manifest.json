@@ -1,11 +1,12 @@
 {
-  "name": "minenotbcash",
-  "short_name": "minenotbcash",
+  "name": "NotBcash.org - Satoshi's True Vision Pool",
+  "short_name": "notbcash",
   "start_url": "/",
+  "title": "NotBcash.org - Satoshi's True Vision Pool",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
-  "theme_color": "#673ab8",
+  "theme_color": "#ff8c00",
   "icons": [
     {
       "src": "/assets/icons/android-chrome-192x192.png",
