@@ -3,7 +3,7 @@ newbuild:
 	cp -R ../minenotbcash/build/* .
 	cp index.html ./miner-stats/.
 
-buildcommit:
+push:
 	cp -R ../minenotbcash/build/* .
 	cp index.html ./miner-stats/.
 	git add . -A
